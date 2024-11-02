@@ -3,9 +3,13 @@
  Les copies d'écran ou les lignes de code qui permettent de voir clairement les étapes suivantes :
  
  La création et le formatage des partitions : 
- La taille des partitions :
+ 
+  La taille des partitions :
+ 
  Le type de système de fichiers :
+ 
  La gestion du swap :
+ 
  Le nom des partitions :
 
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_10_57_37](https://github.com/user-attachments/assets/625bdd52-92bd-40db-86f9-a2ce430cf354)
