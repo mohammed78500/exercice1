@@ -15,7 +15,7 @@
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_10_57_37](https://github.com/user-attachments/assets/625bdd52-92bd-40db-86f9-a2ce430cf354)
 
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_14_56](https://github.com/user-attachments/assets/4e7e3022-7940-47b9-9683-8deb2a128019)
-![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_15_34](https://github.com/user-attachments/assets/96d569b4-0469-4488-a441-b07031d0bbb0)
+
 
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_24_47](https://github.com/user-attachments/assets/6b33f719-e1f6-4fa6-ad8f-77e0ee8828e1)
 
