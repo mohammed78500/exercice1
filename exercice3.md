@@ -8,9 +8,9 @@ Q4 : git checkout main
      
      git merge test_valide
 
-Q5 : echo 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur : - "Bonjour est-ce que ce clavier fonctionne bien ?" - 
-"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ !" - "Même des tildes ~ ?" - 
-"Evidemment !"'
+Q5 : echo -e 'Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :, \ n- "Bonjour est-ce que ce clavier fonctionne bien ?",  
+\ n-"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ !", \ n- "Même des tildes ~ ?",  
+\ n-"Evidemment !"'
 
 Q6 :  fg %1
 
