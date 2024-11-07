@@ -17,8 +17,6 @@
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_14_56](https://github.com/user-attachments/assets/4e7e3022-7940-47b9-9683-8deb2a128019)
 
 
-![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_24_47](https://github.com/user-attachments/assets/6b33f719-e1f6-4fa6-ad8f-77e0ee8828e1)
-
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_11_30_30](https://github.com/user-attachments/assets/b6837407-0c21-4fc4-8de7-6d19e93d21f6)
 
 1.2 Montage du disque
