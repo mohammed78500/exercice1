@@ -25,7 +25,7 @@ Les copies d'écran ou Les lignes de code qui permettent de voir clairement les 
 La configuration pour le montage automatique de cette partition
 
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_12_03_15](https://github.com/user-attachments/assets/d55267e7-54a1-40e7-96f6-29c87162d93a)
-![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_12_04_09](https://github.com/user-attachments/assets/f3a817bc-d496-4eb3-9170-55b5a29f9d51)
+
 ![VirtualBox_Checkpoint1-SRVDEBIAN_25_10_2024_12_06_15](https://github.com/user-attachments/assets/efc107aa-c7f8-4ee1-8df7-457bc747e3dd)
 
 
